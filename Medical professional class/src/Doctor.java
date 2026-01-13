@@ -14,4 +14,3 @@ public class Doctor extends Person {
         System.out.println("Doctor → " + name + ", Specialization: " + specialization);
     }
 }
-
